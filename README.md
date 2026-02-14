@@ -14,7 +14,7 @@ This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLU
 Copyright 2026 Jamie
 
 ## Source Location
-https://[your-repository-url]
+https://github.com/Dizchord/OmniSkin
 
 ## Documentation Contents
 - `/docs` - Theory of operation, geometry specifications, and user guides
@@ -33,3 +33,4 @@ Please document any modifications in CHANGES.txt and maintain the license notice
 
 ## Contact
 [Your Contact Information or Preferred Channel]
+
