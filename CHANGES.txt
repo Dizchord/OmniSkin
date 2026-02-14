@@ -1,0 +1,15 @@
+CHANGES.TXT - Record of modifications to this design
+
+Instructions:
+If you modify this design, please document your changes here.
+Add a new entry for each modification with:
+- Date of modification
+- Brief description of changes made
+- Your name or identifier
+
+Do NOT remove previous entries.
+
+Example:
+2026-02-14: Initial release of design files.
+
+------------------------------------------------------------

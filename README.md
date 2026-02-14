@@ -1,4 +1,3 @@
-# OmniSkin
 # Metamaterial Photonic Electromagnetic Field Sensor
 
 ## Overview
